@@ -180,7 +180,7 @@ footer .fa-linkedin {
     color: #282828;
 }
 
-@media all and (max-width: 450px) {
+@media all and (max-width: 500px) {
     
     header { 
         display: flex;
